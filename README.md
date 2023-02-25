@@ -24,6 +24,7 @@ Determinar la solucion de problemas que implique la aplicacion de la ley de Ohm 
 
 
 ## 3. Explicacion y resolución de ejercicios
+[Rojas Brayan - Carro seguidor de luz.pdf](https://github.com/barojas4/Tarea-9/files/10830352/Rojas.Brayan.-.Carro.seguidor.de.luz.pdf)
 
 
 SECCIÓN 17–1 Impedancia de circuitos RLC en serie
