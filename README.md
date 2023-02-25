@@ -31,7 +31,7 @@ SECCIÓN 17–1 Impedancia de circuitos RLC en serie
 
 2. Determine la impedancia en la figura 17-59 y exprésela en forma polar
 
-
+asdasdasdasdasdassdasdassd
 
 
 
